@@ -1,2 +1,4 @@
-images/
-*.7z
+!images/*.json
+images/*.jpg
+images/*.png
+images/*.jpeg
